@@ -33,7 +33,7 @@ el-baron-barberia/
 
 ## 📸 Capturas del sitio
 
-![Vista previa del sitio](./img/screenshot.png)
+![Vista previa del sitio](.screenshot.png)
 
 
 ## 👤 Autor
