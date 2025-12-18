@@ -18,4 +18,4 @@ Landing page desarrollada para una barbería real, enfocada en una presentación
 Practicar desarrollo frontend con React creando una web comercial real, cuidando diseño, estructura y experiencia de usuario.
 
 ## 🔗 Demo
-[(https://el-baron-barberia.vercel.app/)]
+https://el-baron-barberia.vercel.app/
